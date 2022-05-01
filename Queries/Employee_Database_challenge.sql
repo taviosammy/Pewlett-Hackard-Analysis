@@ -4,7 +4,7 @@ rt.first_name,
 rt.last_name,
 rt.title
 
-INTO uni_titles
+INTO unique_titles
 FROM retirement_titles AS rt
 WHERE (rt.to_date = '9999-01-01')
 ORDER BY emp_no, to_date DESC;
