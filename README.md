@@ -12,9 +12,9 @@ way out and determine eligible candidates who would fit in a mentorship program 
   ![image](https://user-images.githubusercontent.com/99847046/166125837-5e73d6e5-5a3a-4df3-8d1f-906c20d8a9be.png)
   ![image](https://user-images.githubusercontent.com/99847046/166126342-5573dbab-4e0a-4112-a906-d213427617fb.png)
 
-  - Only 0.2% of Senior Engineers are eligible to mentor.
+  - Only 0.2% of retiring Senior Engineers are eligible to mentor.
   - Neither of the retiring Managers are eligible to mentor. 
-  - Assistant Engineers have the most persons eligible for the program at 6%.
+  - Assistant Engineers have the highest percentage of eligibility for the program at 6%.
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
