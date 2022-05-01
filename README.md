@@ -7,8 +7,26 @@ way out and determine eligible candidates who would fit in a mentorship program 
 
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+  > 1510 of 72458 people eligible to reitre are also eligible to be mentors
+  
+  ![image](https://user-images.githubusercontent.com/99847046/166125837-5e73d6e5-5a3a-4df3-8d1f-906c20d8a9be.png)
+  ![image](https://user-images.githubusercontent.com/99847046/166126342-5573dbab-4e0a-4112-a906-d213427617fb.png)
+
+  > Only 0.2% of Senior Engineers are eligible to mentor.
+  > None of the Managers are eligible to mentor. 
+  > Assistant Engineers have the most persons eligible for the program at 6%.
+
+## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+![image](https://user-images.githubusercontent.com/99847046/166126435-ce131e88-6c56-42e3-8a51-5b6e2300d93a.png)
+72,458 of the 371,243 staff will need replacing assuming all operations remain the same.  That's 19.5% of the current workforce.
+![image](https://user-images.githubusercontent.com/99847046/166127491-27389188-3524-4d5a-8c98-9ef6a405d118.png)
 
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Consider 72,458 staff members are eligible for retirement yet only 1510 are mentorship-ready. That's a 1:48 ratio of mentor to mentee.  It will be more up to 
+the level of training required for each job title to decide if this number of mentors is enough to properly replace the silver tsunami but a basic eye test of the data would suggest their are not enough mentors.  Senior Engineers would need special attention given only 0.2% of the 25,916 people who are retirement-ready are also mentorship-ready.
+
+![image](https://user-images.githubusercontent.com/99847046/166130072-b40fa0b1-687a-40f6-85ec-6647d9bb4919.png)
+
