@@ -20,7 +20,7 @@ way out and determine eligible candidates who would fit in a mentorship program 
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 ![image](https://user-images.githubusercontent.com/99847046/166126435-ce131e88-6c56-42e3-8a51-5b6e2300d93a.png)
-![image](https://user-images.githubusercontent.com/99847046/166127491-27389188-3524-4d5a-8c98-9ef6a405d118.png)
+![image](https://user-images.githubusercontent.com/99847046/166130276-2f46910c-baae-42f3-a424-14a47d31e9fe.png)
 - 72,458 of the 371,243 staff will need replacing assuming all operations remain the same.  That's 19.5% of the current workforce.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
